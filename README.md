@@ -1,4 +1,4 @@
-# Unfied_pasta_eos
+# Unified_pasta_eos
 
 These are the unified equation of states (EOS) calculated with the relativistic mean-field (RMF) model. 
 The core part is calculated using RMF+ inner_crust (include pasta) using CLDM + oter_crust using HFB26+AME2020 data.
