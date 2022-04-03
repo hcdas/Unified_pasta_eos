@@ -10,3 +10,8 @@ This calculation use the Thomas Carreau pasta code.
 The eos_unified_XXX.dat contains three columns (i) baryon density (fm^-3), (ii) energy density (MeV/fm^3), and (iii) pressure (MeV/fm^3) respectively.
 
 Unified EOSs only with spherical nuclei in the crust, please see https://github.com/hcdas/Unfied_eos
+
+If you are willing to use these EOSs for your calculations, please cite the following article
+
+Pasta properties of the neutron star within an effective relativistic mean-field model. 
+arXiv:2203.16827 (https://arxiv.org/abs/2203.16827)
