@@ -14,5 +14,5 @@ Unified EOSs only with spherical nuclei in the crust, please see https://github.
 If you are willing to use these EOSs for your calculations, please cite the following article
 
 Pasta properties of the neutron star within an effective relativistic mean-field model. 
-Phys. Rev. D 106, 023031(2022) https://doi.org/10.1103/PhysRevD.106.023031 , 
+Phys. Rev. D 106, 023031(2022)(https://doi.org/10.1103/PhysRevD.106.023031), 
 arXiv:2203.16827 (https://arxiv.org/abs/2203.16827)
